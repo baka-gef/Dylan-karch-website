@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>My Portfolio</Dylan website>
+<title>Dylans Portfolio</Dylan website>
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>My website</h1>
+<p></p>
 
 </body>
 </html>
